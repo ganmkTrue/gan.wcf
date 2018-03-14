@@ -1,0 +1,7 @@
+C:\code\Gan.DDD\gan.wcf\wcf\wcf.client\bin\Debug\wcf.client.exe.config
+C:\code\Gan.DDD\gan.wcf\wcf\wcf.client\bin\Debug\wcf.client.exe
+C:\code\Gan.DDD\gan.wcf\wcf\wcf.client\bin\Debug\wcf.client.pdb
+C:\code\Gan.DDD\gan.wcf\wcf\wcf.client\obj\Debug\wcf.client.csprojResolveAssemblyReference.cache
+C:\code\Gan.DDD\gan.wcf\wcf\wcf.client\obj\Debug\wcf.client.csproj.CoreCompileInputs.cache
+C:\code\Gan.DDD\gan.wcf\wcf\wcf.client\obj\Debug\wcf.client.exe
+C:\code\Gan.DDD\gan.wcf\wcf\wcf.client\obj\Debug\wcf.client.pdb

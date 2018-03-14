@@ -1,0 +1,6 @@
+C:\code\Gan.DDD\gan.wcf\wcf\wcf.service\bin\Debug\wcf.service.exe
+C:\code\Gan.DDD\gan.wcf\wcf\wcf.service\bin\Debug\wcf.service.exe.config
+C:\code\Gan.DDD\gan.wcf\wcf\wcf.service\bin\Debug\wcf.service.pdb
+C:\code\Gan.DDD\gan.wcf\wcf\wcf.service\obj\Debug\wcf.service.csproj.CoreCompileInputs.cache
+C:\code\Gan.DDD\gan.wcf\wcf\wcf.service\obj\Debug\wcf.service.exe
+C:\code\Gan.DDD\gan.wcf\wcf\wcf.service\obj\Debug\wcf.service.pdb
